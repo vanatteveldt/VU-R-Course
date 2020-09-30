@@ -20,9 +20,9 @@ Beside the interactive sessions, you are encouraged to ask questions by [creatin
 
 The table below (will) contain links to the videos, background reading, and handouts. 
 
-| Time | Session | Background | Handouts | 
+| Time | Session | Reading | Handouts | 
 | --- | --- | --- | --- |
-| Mon AM | R is fun! |  |  |
+| Mon AM | R is fun! |   | (Fun with R)[] (Getting Started)[https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md)] (Data and functions)[https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_2_data_and_functions.md] |
 | Mon PM | Tidyverse I: Importinng & cleaning data|  |  |
 | Tue AM | Tidyverse II: Summarizing * reshaping|  |  |
 | Tue PM | Visualizing with ggplot |  |  |
