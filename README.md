@@ -1,6 +1,6 @@
 # VU-R-Course
 
-Before we start, [https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md](please make sure you have RStudio installed and you have played around with R at least a little bit!)
+Before we start, [please make sure you have RStudio installed and you have played around with R at least a little bit!](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md)
 
 * Daily routine:
 
@@ -14,7 +14,7 @@ The interactive part is 10:30 - 12:00 for the morning session and 14:30 - 16:00 
 
 * Asking questions
 
-Beside the interactive sessions, you are encouraged to ask questions using [https://github.com/vanatteveldt/VU-R-Course/issues/new](github issues). Before posting a question, [https://github.com/vanatteveldt/VU-R-Course/issues](have a look at the existing issues) to see whether your question has been answered already!
+Beside the interactive sessions, you are encouraged to ask questions by [crating a github issue](https://github.com/vanatteveldt/VU-R-Course/issues/new). Before posting a question, [have a look at the existing issues](https://github.com/vanatteveldt/VU-R-Course/issues) to see whether your question has been answered already!
 
 * Topics
 
