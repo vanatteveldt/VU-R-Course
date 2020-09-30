@@ -14,7 +14,7 @@ The interactive part is 10:30 - 12:00 for the morning session and 14:30 - 16:00 
 
 * Asking questions
 
-Beside the interactive sessions, you are encouraged to ask questions by [crating a github issue](https://github.com/vanatteveldt/VU-R-Course/issues/new). Before posting a question, [have a look at the existing issues](https://github.com/vanatteveldt/VU-R-Course/issues) to see whether your question has been answered already!
+Beside the interactive sessions, you are encouraged to ask questions by [creating a github issue](https://github.com/vanatteveldt/VU-R-Course/issues/new). Before posting a question, [have a look at the existing issues](https://github.com/vanatteveldt/VU-R-Course/issues) to see whether your question has been answered already!
 
 * Topics
 
