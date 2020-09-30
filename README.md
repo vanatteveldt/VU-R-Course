@@ -1,5 +1,7 @@
 # VU-R-Course
 
+Before we start, [https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md](please make sure you have RStudio installed and you have played around with R at least a little bit!)
+
 * Daily routine:
 
 We have two sessions per day. Each session has the following routine:
@@ -12,6 +14,16 @@ The interactive part is 10:30 - 12:00 for the morning session and 14:30 - 16:00 
 
 * Topics
 
-| Session | Video | Handout | Background | 
-| --- | --- | --- |
-| Mo AM | Getting started | |
+| Time | Session | Background | Handouts | 
+| --- | --- | --- | --- |
+| Mon AM | R is fun! |  |  |
+| Mon PM | Tidyverse I: Importinng & cleaning data|  |  |
+| Tue AM | Tidyverse II: Summarizing * reshaping|  |  |
+| Tue PM | Visualizing with ggplot |  |  |
+| Wed AM | Quantitative text Analysis with Quanteda|  |  |
+| Wed PM | Dictionary analysis, corpus statistics |  |  |
+| Thu AM | Basic Statistics in R |  |  |
+| Thu PM | (More) Advanced Statistical Models |  |  |
+| Fri AM | Recap, finishing up, and/or additional modules |  |  |
+| Fri PM | Recap, finishing up, and/or additional modules |  |  |
+
