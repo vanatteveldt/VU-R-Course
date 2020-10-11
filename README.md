@@ -10,6 +10,11 @@ We have two sessions per day. Each session has the following routine:
 2. Interactive Q&A (plenary zoom) 
 3. Supervised practice session (zoom breakout rooms)
 
+Please note that during the practice sessions, you have a choice of:
+- Working on the handouts. These mostly cover the same material as the videos, so if everything is clear you don't need to spend too much time on them
+- Working on your own data. After all, you're not taking this course to make us happy.
+- Challenge yourself to do something cool and fun with the data. For example, grab 2020 election forecast data or COVID data and see whether you can visualize the data, the changes over time and/or analyse different scenarios. (e.g.: https://data.fivethirtyeight.com/, https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide, but there's a lot of data out there :). If you want to do some effect or time series analysis, why don't you combine the election or COVID data with e.g. stock market or consumer confidence data and see what causes what?
+
 Schedule and materials: (will be updated during the course)
  
 + Monday AM: **Introduction to R & Rstudio**
