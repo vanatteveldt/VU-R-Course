@@ -50,8 +50,10 @@ Schedule and materials: (will be updated during the course)
     + [The R Graph Gallery](https://www.r-graph-gallery.com/)
     + [Data-to-Viz](https://www.data-to-viz.com/)
   + 13:00: Video lecture: [Visualization with GGPlot](https://www.youtube.com/watch?v=wO5mrVaCB28&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=7)
-  + 13:30: Plenary session / Q&A
-  + 14:00 - 15:00: Supervised practice: [Data Visualization](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md)
+  + 14:00: Plenary session / Q&A
+  + 14:30 - 15:30: Supervised practice: [Data Visualization](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md)
+  + 15:30 - 17:00: Finish up handouts / background reading / work on assignment 
+  
   
 + Wed AM: **Quantitative text Analysis with Quanteda**
   + Preparation / background reading:
