@@ -32,6 +32,7 @@ Schedule and materials: (will be updated during the course)
   + 13:00: Video lectures: [Importing and Cleaning data](https://www.youtube.com/watch?v=CATqkFiZljU&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=3), [Grouping and Summarizing](https://www.youtube.com/watch?v=lde7wLORQpo&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=4), [Importing Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/Gathering_data.md)
   + 14:00: Plenary Session / Q&A
   + 14:30 - 15:30; Supervised Practice: [Transforming Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md) [Summarizing Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md)
+  + 15:30 - 17:00: Finish up handouts / background reading / work on assignment 
   
 + Tuesday AM: **Tidyverse III & IV: Reshaping and Merging**
   + Preparation / background reading: 
@@ -40,7 +41,7 @@ Schedule and materials: (will be updated during the course)
     
   + 9:00: Video lectures: [Reshaping data](https://www.youtube.com/watch?v=j4lZWJ3Osr8&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=5) & [Joining Data](https://www.youtube.com/watch?v=gg87Nv98VhQ&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=6)
   + 10:00: Plenary session / Q&A
-  + 10:30 - 11:30: Supervised practice: [Reshaping Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-12-reshaping.md), [Merging Data Sets](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-13a-joining.md)
+  + 10:30 - 12:00: Supervised practice: [Reshaping Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-12-reshaping.md), [Merging Data Sets](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-13a-joining.md)
 + Tuesday PM: **Visualization with GGPlot**
   + Preparation / background reading / links: 
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapter 8
@@ -48,7 +49,7 @@ Schedule and materials: (will be updated during the course)
     + [Data Visualization: A practical introduction (Kieran Healy)](https://socviz.co/)
     + [The R Graph Gallery](https://www.r-graph-gallery.com/)
     + [Data-to-Viz](https://www.data-to-viz.com/)
-  + 12:30: Video lecture: [Visualization with GGPlot](https://www.youtube.com/watch?v=wO5mrVaCB28&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=7)
+  + 13:00: Video lecture: [Visualization with GGPlot](https://www.youtube.com/watch?v=wO5mrVaCB28&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=7)
   + 13:30: Plenary session / Q&A
   + 14:00 - 15:00: Supervised practice: [Data Visualization](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md)
   
