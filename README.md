@@ -82,7 +82,7 @@ Schedule and materials: (will be updated during the course)
  + Thu PM: **(More) Advanced Statistical Models**
    + Preparation / background reading (optional):
      + [The Basic Two-Level Regression Model.](https://multilevel-analysis.sites.uu.nl/wp-content/uploads/sites/27/2018/02/02Ch2-Basic3449.pdf) Chapter 2 in Hox, Moerbeek & van de Schoot.
-   + 13:00: Video lecture: [Advanced statistics in R](), [Understanding the GLM family argument](https://www.youtube.com/watch?v=DDP62EUMRFs)
+   + 13:00: Video lecture: Advanced statistics in R, [part 1 (GLM)](https://www.youtube.com/watch?v=WnmwuD8OwMw) and [part 2 (Multilevel)(https://www.youtube.com/watch?v=1Tw1eIfSyEQ), [Understanding the GLM family argument](https://www.youtube.com/watch?v=DDP62EUMRFs), 
    + 14:00: Plenary session / Q&A
    + 14:30 - 16:00: Supervised practice: [Advanced statistics in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/advanced_modeling.md), or the more detailed tutorials on [GLM](https://htmlpreview.github.io/?https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/generalized_linear_models.html) and [Multilevel modeling](https://htmlpreview.github.io/?https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/multilevel_models.html)
  
