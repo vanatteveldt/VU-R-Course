@@ -73,6 +73,18 @@ Schedule and materials: (will be updated during the course)
    + 14:30 - 16:00: Supervised practice: [Lexical Sentiment Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/sentiment_analysis.md)
    
  + Thu AM: **Basic Statistics in R**
+   + Preparation / background reading (optional):
+    + [Generalized Linear Models. McCullagh and Nelder](http://www.utstat.toronto.edu/~brunner/oldclass/2201s11/readings/glmbook.pdf) chapter 1 (introduction)
+   + 13:00: Video lecture: [Basic statistics in R](https://studio.youtube.com/video/1K3SKsEj9eI/edit/basic)
+   + 14:00: Plenary session / Q&A
+   + 14:30 - 16:00: Supervised practice: [Basic statistics in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/simple_modeling.md)
  
  + Thu PM: **(More) Advanced Statistical Models**
+   + Preparation / background reading (optional):
+    + [The Basic Two-Level Regression Model (chapter 2 in Hox, Moerbeek & van de Schoot, 2018)](https://multilevel-analysis.sites.uu.nl/wp-content/uploads/sites/27/2018/02/02Ch2-Basic3449.pdf)
+   + 13:00: Video lecture: [Advanced statistics in R](), [Understanding the GLM family argument](https://www.youtube.com/watch?v=DDP62EUMRFs)
+   + 14:00: Plenary session / Q&A
+   + 14:30 - 16:00: Supervised practice: [Advanced statistics in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/advanced_modeling.md), or the more detailed tutorials on [GLM](https://htmlpreview.github.io/?https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/generalized_linear_models.html) and [Multilevel modeling](https://htmlpreview.github.io/?https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/multilevel_models.html)
+ 
+ 
  + Fri: **Recap, finishing up, and/or additional modules**
