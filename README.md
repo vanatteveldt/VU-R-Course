@@ -94,10 +94,15 @@ Schedule and materials: (will be updated during the course)
      + Structural Equation Modeling in R with Lavaan: [Tutorial from developer](https://lavaan.ugent.be/tutorial/tutorial.pdf) 
      + Network Analysis: [Introduction by Jesse Sadler](https://www.jessesadler.com/post/network-analysis-with-r/)
      + [Analyzing Likert Scale dependent variable](https://www.st-andrews.ac.uk/media/ceed/students/mathssupport/OrdinalexampleR.pdf)
+     + [Scraping with rvest](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/rvest.md)
+     + [Linguistic processing](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_nlp.md)
+     + Topic Models: [Lecture](https://www.youtube.com/playlist?list=PLjXODJ_lGN_WtxhPsQ_t0aHtFAcsIh1-8) [Handout](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md) (and checkout the Thursday and Friday program of [this course](https://github.com/vanatteveldt/UNIBE-R-Course/) for lots more material)
+     + Relevant [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters: 11 (for text analysis and linguistic processing), 13 (for scraping), 14 (for networks)
    + No video lectures today. Please work on your assignment or work with the previous or additional modules.
    + 10:00: Plenary session: requested topics, recap and Q&A
    + 10:30 - 12:00: Supervised practice on any topic
-   + 14:00: Plenary session: finishing up and assignment
+   + 14:00 - 15:00: Supervised practice on any topic [optional]
+   + 15:00 - 16:00: Wrapping up and assignment
      
  
  
