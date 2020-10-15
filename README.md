@@ -90,3 +90,12 @@ Schedule and materials: (will be updated during the course)
  
  
  + Fri: **Recap, finishing up, and/or additional modules**
+   + Optional material based on requests:
+     + Structural Equation Modeling in R with Lavaan: [Tutorial from developer](https://lavaan.ugent.be/tutorial/tutorial.pdf) 
+     + Network Analysis: [Introduction by Jesse Sadler](https://www.jessesadler.com/post/network-analysis-with-r/)
+     + [Analyzing Likert Scale dependent variable](https://www.st-andrews.ac.uk/media/ceed/students/mathssupport/OrdinalexampleR.pdf)
+     
+ 
+ 
+ 
+ 
