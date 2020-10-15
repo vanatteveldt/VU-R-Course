@@ -75,9 +75,9 @@ Schedule and materials: (will be updated during the course)
  + Thu AM: **Basic Statistics in R**
    + Preparation / background reading (optional):
      + [Generalized Linear Models.](http://www.utstat.toronto.edu/~brunner/oldclass/2201s11/readings/glmbook.pdf) Chapter 1 in McCullagh and Nelder
-   + 13:00: Video lecture: [Basic statistics in R](https://www.youtube.com/watch?v=1K3SKsEj9eI)
-   + 14:00: Plenary session / Q&A
-   + 14:30 - 16:00: Supervised practice: [Basic statistics in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/simple_modeling.md)
+   + 9:00: Video lecture: [Basic statistics in R](https://www.youtube.com/watch?v=1K3SKsEj9eI)
+   + 10:00: Plenary session / Q&A
+   + 10:30 - 12:00: Supervised practice: [Basic statistics in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/simple_modeling.md)
  
  + Thu PM: **(More) Advanced Statistical Models**
    + Preparation / background reading (optional):
