@@ -96,6 +96,7 @@ Schedule and materials: (will be updated during the course)
      + [Analyzing Likert Scale dependent variable](https://www.st-andrews.ac.uk/media/ceed/students/mathssupport/OrdinalexampleR.pdf)
    + No video lectures today. Please work on your assignment or work with the previous or additional modules.
    + 10:00: Plenary session: requested topics, recap and Q&A
+   + 10:30 - 12:00: Supervised practice on any topic
    + 14:00: Plenary session: finishing up and assignment
      
  
